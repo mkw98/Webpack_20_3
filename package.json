@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack ./app.js --output app.bundle.js"
+    "start": "webpack"
 },
   "author": "Maria",
   "license": "ISC",
